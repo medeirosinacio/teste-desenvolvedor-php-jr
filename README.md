@@ -28,12 +28,12 @@ A modelagem inicial para a implementação solução é a seguinte:
 
 [![](./doc/model.png)]()
 
-Você pode alterar esta modelagem para o teste, será analizada o motivo das mudanças e implemntação das modificações.
+Você pode alterar esta modelagem para o teste, será analizada o motivo das mudanças e implementação das modificações.
 
 Além disso, a implementação deste modelo em um banco de dados relacional deve ser realizada levando em consideração os seguintes requisitos:
 
 - O banco de dados deve ser criado utilizando Migrations do framework, e também utilizar Seeds e Factorys para popular as informações no banco de dados.
-- Implementação das validações necessárias na camada que julgar melhor.
+- Implementação das validações necessárias na camada que julgar melhor. 
 
 ## Tecnologias e ferramentas
 
@@ -62,6 +62,7 @@ Para iniciar o teste, faça um fork deste repositório, crie uma branch com o se
 - Permitir deleção em massa de itens nos CRUDs.
 - Implementar a camada de Front-End utilizando a biblioteca javascript Bootstrap e ser responsiva.
 - API Rest JSON para todos os CRUDS listados acima.
+- Uso de Docker para provisionar o projeto
 
 ## Dicas para um bom desenvolvimento
 
