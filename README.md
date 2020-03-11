@@ -26,7 +26,7 @@ Listando temos:
 
 A modelagem inicial para a implementação solução é a seguinte:
 
-[![](./doc/model.png)]()
+[![](./doc/model.png)](/blob/master/doc/model.png)
 
 Você pode alterar esta modelagem para o teste, será analizada o motivo das mudanças e implementação das modificações.
 
