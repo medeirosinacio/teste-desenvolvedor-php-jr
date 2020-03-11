@@ -1,3 +1,5 @@
+[![](./doc/header_php.png)](/doc/header_php.png)
+
 # Teste para Desenvolvedor PHP | Nível Junior
 
 Olá, Dev.  Abaixo estaremos descrevendo um teste á ser realizado, queremos analisar suas habilidades de desenvolvimento, coding e resolução de problemas. 
@@ -26,7 +28,7 @@ Listando temos:
 
 A modelagem inicial para a implementação solução é a seguinte:
 
-[![](./doc/model.png)]()
+[![](./doc/model.png)](/doc/model.png)
 
 Você pode alterar esta modelagem para o teste, será analizada o motivo das mudanças e implementação das modificações.
 
